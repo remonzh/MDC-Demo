@@ -28,6 +28,7 @@ namespace TipCalc
 
         public double PostTaxTotal
         {
+            //Just added a change comment here
             set
             {
                 if (postTaxTotal != value)
@@ -62,6 +63,7 @@ namespace TipCalc
 
         public double TipAmount
         {
+            //Just added another change comment here
             set
             {
                 if (tipAmount != value)
